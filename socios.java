@@ -31,6 +31,9 @@ public class socios
 			// serializo el socio
 			oos.writeObject(s);
 		}
+		// lectura
+
+		// escritura
 
 	}
 }
