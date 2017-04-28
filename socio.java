@@ -24,3 +24,8 @@ class socio implements Serializable
 		System.out.println(nacimiento.get(Calendar.DAY_OF_MONTH)+"/"+(1+nacimiento.get(Calendar.MONTH))+"/"+nacimiento.get(Calendar.YEAR));		
 	}
 }
+class serializable 
+{
+	System.out.println("LO SUBO A GIT HUB");	
+}
+}
