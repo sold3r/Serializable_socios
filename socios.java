@@ -37,3 +37,7 @@ public class socios
 
 	}
 }
+class serializablee
+{
+	System.out.println("TRABAJO GIT HUB");
+}
